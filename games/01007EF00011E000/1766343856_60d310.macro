@@ -1,4 +1,0 @@
-CMD启动openlist.exe
-默认端口http://127.0.0.1:5244/
-浏览器导入UA修改插件，将UA自定义为 pan.baidu.com
-根据Alist文档教程操作，百度app可以直接扫码登录
