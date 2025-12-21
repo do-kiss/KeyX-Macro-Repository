@@ -1,22 +1,3 @@
 {
-    "updates": [
-        {
-            "target_file": "1766368609_rv83sw.macro",
-            "origin": "published",
-            "ts": 1766356736,
-            "data": {
-                "name": [
-                    "落差风弹",
-                    "落差風彈",
-                    "Drop Wind Bomb"
-                ],
-                "desc": [
-                    "身上必须装备了弓箭\r\n站在台阶边缘，背朝台阶使用\r\n无需实现选好炸弹撒旦",
-                    "身上必須裝備了弓箭\r\n站在臺階邊緣，背朝臺階使用\r\n無需實現選好炸彈",
-                    "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
-                ],
-                "author": "TOM"
-            }
-        }
-    ]
+    "updates": []
 }
