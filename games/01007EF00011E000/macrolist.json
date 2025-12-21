@@ -41,34 +41,6 @@
                 "Make sure the round bomb is selected first\nUse when you are floating in the air without any movement\nYou can judge by observing the airflow at the tail of the glider\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
             "author": "TOM"
-        },
-        {
-            "file": "1766358223_ab260e.macro",
-            "name": [
-                "测试1",
-                "测试1差异",
-                "测试12"
-            ],
-            "desc": [
-                "1差异",
-                "4",
-                "1"
-            ],
-            "author": "tom测试游客提交2"
-        },
-        {
-            "file": "1766359507_596bde.macro",
-            "name": [
-                "1",
-                "4",
-                "7"
-            ],
-            "desc": [
-                "4",
-                "7",
-                "7"
-            ],
-            "author": "测试忘忧"
         }
     ]
 }
