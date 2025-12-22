@@ -17,24 +17,6 @@
                 ],
                 "author": "TOM"
             }
-        },
-        {
-            "target_file": "1766368609_h6iyl1.macro",
-            "origin": "published",
-            "ts": 1766394619,
-            "data": {
-                "name": [
-                    "帽子二段跳打算",
-                    "帽子二段跳",
-                    "Double Jump"
-                ],
-                "desc": [
-                    "投出帽子后跳跃并踩在帽子上弹跳\r\n直接使用即可，没有什么注意事项",
-                    "投出帽子後跳躍並踩在帽子上彈跳\r\n直接使用即可，沒有什麼注意事項",
-                    "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no s1pecial requirements"
-                ],
-                "author": "TOM"
-            }
         }
     ]
 }
