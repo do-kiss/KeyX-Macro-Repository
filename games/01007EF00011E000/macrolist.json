@@ -1,20 +1,6 @@
 {
     "macros": [
         {
-            "file": "1766368609_rv83sw.macro",
-            "name": [
-                "落差风弹",
-                "落差風彈",
-                "Drop Wind Bomb"
-            ],
-            "desc": [
-                "身上必须装备了弓箭\r\n站在台阶边缘，背朝台阶使用\r\n无需实现选好炸弹",
-                "身上必須裝備了弓箭\r\n站在臺階邊緣，背朝臺階使用\r\n無需實現選好炸彈",
-                "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
-            ],
-            "author": "TOM"
-        },
-        {
             "file": "1766368609_oxf6bz.macro",
             "name": [
                 "下蛋飞雷神",
@@ -25,20 +11,6 @@
                 "用下蛋接前跳、引爆、再加后空翻的方式，提高腾空高度，从而触发飞雷神。\r\n触发宏后，不要有额外操作，等突袭Y键标识出来即可",
                 "用下蛋接前跳、引爆、再加後空翻的方式，提高騰空高度，從而觸發飛雷神。\r\n觸發宏後，不要有額外操作，等突襲Y鍵標識出來即可",
                 "Use drop egg to connect forward jump, detonate, and then backflip method, increase aerial height, thus trigger Flying Thunder God\r\nAfter triggering the macro, do not perform extra actions, just wait until the Flurry Rush Y button indicator appears"
-            ],
-            "author": "TOM"
-        },
-        {
-            "file": "1766368609_nfb8p1.macro",
-            "name": [
-                "空中接力风弹",
-                "空中接力風彈",
-                "Aerial Wind Bomb"
-            ],
-            "desc": [
-                "需要先选好圆形炸弹\n当你飘在空中不在有位移时使用\n可以通过观察滑翔伞尾翼的气流判断\n宏里面已经处理了摇杆，所以除了宏什么都别按",
-                "需要先選好圓形炸彈\n當你飄在空中不在有位移時使用\n可以通過觀察滑翔傘尾翼的氣流判斷\n宏裏面已經處理了搖桿，所以除了宏什麼都別按",
-                "Make sure the round bomb is selected first\nUse when you are floating in the air without any movement\nYou can judge by observing the airflow at the tail of the glider\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
             "author": "TOM"
         }
