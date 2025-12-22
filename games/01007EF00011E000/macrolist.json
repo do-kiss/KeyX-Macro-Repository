@@ -57,6 +57,34 @@
                 "Modified from TOM's TCR, this version uses the B button to jump\r\nOn the ground, equip a shield and a one-handed sword. Before use, you must obtain the Thunderclap mark. Take a hit or block one melee attack with the shield"
             ],
             "author": "星之晨光"
+        },
+        {
+            "file": "1766411973_ecef01.macro",
+            "name": [
+                "开发测试专用，不要下载",
+                "开发测试专用，不要下载",
+                "Test only, don't download"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧"
+        },
+        {
+            "file": "1766412441_34c2c9.macro",
+            "name": [
+                "吹哨奔跑（不消耗体力）",
+                "吹哨奔跑（不消耗体力）",
+                "Whistle and run (without physical exertion)"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧"
         }
     ]
 }
