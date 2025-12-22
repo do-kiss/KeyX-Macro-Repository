@@ -13,6 +13,36 @@
                 "Use drop egg to connect forward jump, detonate, and then backflip method, increase aerial height, thus trigger Flying Thunder God\r\nAfter triggering the macro, do not perform extra actions, just wait until the Flurry Rush Y button indicator appears"
             ],
             "author": "TOM"
+        },
+        {
+            "file": "1766386127_829283.macro",
+            "name": [
+                "落差风弹",
+                "落差風彈",
+                "Drop Wind Bomb"
+            ],
+            "desc": [
+                "身上必须装备了弓箭\r\n站在台阶边缘，背朝台阶使用\r\n无需事先选好炸弹",
+                "身上必須裝備了弓箭\r\n站在臺階邊緣，背朝臺階使用\r\n無需事先選好炸彈",
+                "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
+            ],
+            "author": "TOM",
+            "expire": 1766387927
+        },
+        {
+            "file": "1766386226_cab760.macro",
+            "name": [
+                "空中接力风弹",
+                "空中接力風彈",
+                "Aerial Wind Bomb"
+            ],
+            "desc": [
+                "需要先选好圆形炸弹\r\n当你飘在空中不在有位移时使用\r\n可以通过观察滑翔伞尾翼的气流判断\r\n宏里面已经处理了摇杆，所以除了宏什么都别按",
+                "需要先選好圓形炸彈\r\n當你飄在空中不在有位移時使用\r\n可以通過觀察滑翔傘尾翼的氣流判斷\r\n宏裏面已經處理了搖桿，所以除了宏什麼都別按",
+                "Make sure the round bomb is selected first\r\nUse when you are floating in the air without any movement\r\nYou can judge by observing the airflow at the tail of the glider\r\nThe macro has already handled the joystick, so do not press anything else except the macro"
+            ],
+            "author": "TOM",
+            "expire": 1766388026
         }
     ]
 }
