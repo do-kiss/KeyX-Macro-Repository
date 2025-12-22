@@ -1,20 +1,19 @@
 {
     "macros": [
         {
-            "file": "1766391599_94bd8c.macro",
+            "file": "1766391640_58b82a.macro",
             "name": [
-                "",
-                "",
-                ""
+                "测试名称冲突机制11",
+                "2",
+                "21"
             ],
             "desc": [
                 "",
                 "",
                 ""
             ],
-            "author": "",
-            "status": "draft",
-            "expire": 1766393399
+            "author": "测试名称冲突机制1",
+            "status": "pending"
         }
     ]
 }
