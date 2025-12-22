@@ -2,15 +2,13 @@
     "version": 1,
     "games": {
         "01007EF00011E000": [
-            "塞尔达传说",
-            "旷野之息",
+            "塞尔达传说 旷野之息",
             "野炊",
-            "Zelda",
-            "Breath of the Wild"
+            "The Legend of Zelda: Breath of the Wild"
         ],
         "0100000000010000": [
             "超级马里奥 奥德赛",
-            "The Legend of Zelda: Breath of the Wild"
+            "Super Mario Odyssey"
         ]
     }
 }
