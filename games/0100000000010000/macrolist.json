@@ -1,65 +1,6 @@
 {
     "macros": [
         {
-            "file": "1766368609_h6iyl1.macro",
-            "name": [
-                "帽子二段跳",
-                "帽子二段跳",
-                "Double Jump"
-            ],
-            "desc": [
-                "投出帽子后跳跃并踩在帽子上弹跳\r\n直接使用即可，没有什么注意事项",
-                "投出帽子後跳躍並踩在帽子上彈跳\r\n直接使用即可，沒有什麼注意事項",
-                "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no special requirements"
-            ],
-            "author": "TOM",
-            "downloads": 4
-        },
-        {
-            "file": "1766368609_ydjs8r.macro",
-            "name": [
-                "大跳二段跳",
-                "大跳二段跳",
-                "Long Jump Double Jump"
-            ],
-            "desc": [
-                "先跑起来再使用宏就可以正确触发\n这个是平地的，如果是上坡会失败\n如果你是先触发宏，再推摇杆，还可以当后空翻二段跳",
-                "先跑起來再使用宏就可以正確觸發\n這個是平地的，如果是上坡會失敗\n如果你是先觸發宏，再推搖桿，還可以當後空翻二段跳",
-                "First run, then use the macro, and it can be triggered correctly\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\nIf you trigger the macro first and then push the analog stick, it can also be used as a backflip double jump."
-            ],
-            "author": "TOM",
-            "downloads": 3
-        },
-        {
-            "file": "1766368609_9yvnj1.macro",
-            "name": [
-                "后空翻二段跳",
-                "後空翻二段跳",
-                "Side Somersault Double Jump"
-            ],
-            "desc": [
-                "先触发宏，跳起来立马推摇杆，就能实现后空翻二段跳\n如果你先跑起来，再触发宏，还可以当大跳二段跳",
-                "先觸發宏，跳起來立馬推搖桿，就能實現後空翻二段跳\n如果你先跑起來，再觸發宏，還可以當大跳二段跳",
-                "Trigger the macro first, jump, and immediately push the analog stick to perform a backflip double jump\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\nIf you start running first and then trigger the macro, it can also be used as a long jump double jump"
-            ],
-            "author": "TOM",
-            "downloads": 15
-        },
-        {
-            "file": "1766368609_5brmcu.macro",
-            "name": [
-                "彩虹二段跳",
-                "彩虹二段跳",
-                "Spin Double Jump"
-            ],
-            "desc": [
-                "先跑起来再使用宏就可以正确触发\n帽子二段跳中间插一个B键的旋转",
-                "先跑起來再使用宏就可以正確觸發\n帽子二段跳中間插一個B鍵的旋轉",
-                "First run, then use the macro, and it can be triggered correctly\nInsert a B-button spin between the two jumps of a cap jump"
-            ],
-            "author": "TOM"
-        },
-        {
             "file": "1766368609_mjxtys.macro",
             "name": [
                 "大跳彩虹二段跳",
@@ -88,6 +29,20 @@
             ],
             "author": "TOM",
             "downloads": 6
+        },
+        {
+            "file": "1766470748_6db563.macro",
+            "name": [
+                "帽子二段跳",
+                "帽子二段跳",
+                "Double Jump"
+            ],
+            "desc": [
+                "投出帽子后跳跃并踩在帽子上弹跳\r\n直接使用即可，没有什么注意事项",
+                "投出帽子後跳躍並踩在帽子上彈跳\r\n直接使用即可，沒有什麼注意事項",
+                "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no special requirements"
+            ],
+            "author": "TOM"
         }
     ]
 }
