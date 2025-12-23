@@ -42,7 +42,8 @@
                 "投出帽子後跳躍並踩在帽子上彈跳\r\n直接使用即可，沒有什麼注意事項",
                 "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no special requirements"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 1
         },
         {
             "file": "1766470859_ba575a.macro",
@@ -84,7 +85,8 @@
                 "先跑起來再使用宏就可以正確觸發\r\n這個是平地的，如果是上坡會失敗\r\n如果你是先觸發宏，再推搖桿，還可以當後空翻二段跳",
                 "First run, then use the macro, and it can be triggered correctly\r\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\r\nIf you trigger the macro first and then push the analog stick, it can also be used as a backflip double jump"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 1
         }
     ]
 }
