@@ -12,7 +12,8 @@
                 "投出帽子後跳躍並踩在帽子上彈跳\r\n直接使用即可，沒有什麼注意事項",
                 "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no special requirements"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 4
         },
         {
             "file": "1766368609_ydjs8r.macro",
@@ -26,7 +27,8 @@
                 "先跑起來再使用宏就可以正確觸發\n這個是平地的，如果是上坡會失敗\n如果你是先觸發宏，再推搖桿，還可以當後空翻二段跳",
                 "First run, then use the macro, and it can be triggered correctly\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\nIf you trigger the macro first and then push the analog stick, it can also be used as a backflip double jump."
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 3
         },
         {
             "file": "1766368609_9yvnj1.macro",
@@ -40,7 +42,8 @@
                 "先觸發宏，跳起來立馬推搖桿，就能實現後空翻二段跳\n如果你先跑起來，再觸發宏，還可以當大跳二段跳",
                 "Trigger the macro first, jump, and immediately push the analog stick to perform a backflip double jump\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\nIf you start running first and then trigger the macro, it can also be used as a long jump double jump"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 15
         },
         {
             "file": "1766368609_5brmcu.macro",
@@ -68,7 +71,8 @@
                 "先跑起來再使用宏就可以正確觸發\n不可以對上坡使用\n如果你是先觸發宏，再推搖桿，還可以當後空翻彩虹二段跳",
                 "First run, then use the macro, and it can be triggered correctly\nCannot be used on uphill slopes\nIf you trigger the macro first and then push the analog stick, it can also be used as a somersault spin double jump"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 1
         },
         {
             "file": "1766368609_tr71q4.macro",
@@ -83,7 +87,7 @@
                 "Trigger the macro first, jump, and immediately push the analog stick to perform a somersault spin double jump\nIf you start running first and then trigger the macro, it can also be used as a long spin double jump"
             ],
             "author": "TOM",
-            "downloads": 1
+            "downloads": 6
         }
     ]
 }
