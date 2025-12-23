@@ -13,7 +13,7 @@
                 "Use drop egg to connect forward jump, detonate, and then backflip method, increase aerial height, thus trigger Flying Thunder God\r\nAfter triggering the macro, do not perform extra actions, just wait until the Flurry Rush Y button indicator appears"
             ],
             "author": "TOM",
-            "downloads": 21
+            "downloads": 28
         },
         {
             "file": "1766368609_rv83sw.macro",
@@ -28,7 +28,7 @@
                 "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
             ],
             "author": "TOM",
-            "downloads": 17
+            "downloads": 24
         },
         {
             "file": "1766368609_nfb8p1.macro",
@@ -43,7 +43,7 @@
                 "Make sure the round bomb is selected first\r\nUse when you are floating in the air without any movement\r\nYou can judge by observing the airflow at the tail of the glider\r\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
             "author": "TOM",
-            "downloads": 66
+            "downloads": 72
         },
         {
             "file": "1766409101_753bd5.macro",
@@ -53,12 +53,12 @@
                 "BombTCR (B jump)"
             ],
             "desc": [
-                "修改自TOM大佬的平地飞雷神，b键位跳跃的可以下这个\r\n平地使用装备盾牌和单手剑，使用之前必须获取飞雷神标记，挨打或者盾挡一次近战攻击",
+                "修改自TOM大佬的平地飞雷神，b键位跳跃的可以下这个\r\n平地使用装备盾牌和单手剑，使用之前必须获取飞雷神标记，挨打或者盾挡一次近战攻击。触发后不要动，等出现y提示时按y即可发动飞雷神。",
                 "修改自TOM大佬的平地飛雷神，B鍵跳躍的可以下載這個\r\n平地使用裝備盾牌和單手劍，使用之前必須獲得飛雷神標記，受到攻擊或盾牌格擋一次近戰攻擊",
                 "Modified from TOM's TCR, this version uses the B button to jump\r\nOn the ground, equip a shield and a one-handed sword. Before use, you must obtain the Thunderclap mark. Take a hit or block one melee attack with the shield"
             ],
             "author": "星之晨光",
-            "downloads": 17
+            "downloads": 22
         },
         {
             "file": "1766466880_5ef0ec.macro",
@@ -87,7 +87,7 @@
                 "Allow Link to continuously run at high speed without consuming stamina.\r\nIt is recommended to set the macro hotkey to ZL + B.\r\nWhen you push the joystick to move Link and press ZL and B simultaneously to trigger this macro, Link will run at high speed without stamina consumption.\r\nThis macro lasts for only 10 seconds. If you want to run for a longer time, press and hold ZL and B for 0.5 seconds when starting the macro to enable continuous loop playback.\r\nYou can see instructions on how to use the macro playback on the macro hotkey settings page.\r\nWhen you want to stop the macro, you should press ZL first, then press B simultaneously. Otherwise, a whistle sound may be missed when ending the macro."
             ],
             "author": "忘忧",
-            "downloads": 26
+            "downloads": 30
         }
     ]
 }

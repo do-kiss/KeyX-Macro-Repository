@@ -1,22 +1,3 @@
 {
-    "updates": [
-        {
-            "target_file": "1766409101_753bd5.macro",
-            "origin": "published",
-            "ts": 1766477693,
-            "data": {
-                "name": [
-                    "平地飞雷神（B键跳）",
-                    "平地飛雷神（B鍵跳）",
-                    "BombTCR (B jump)"
-                ],
-                "desc": [
-                    "修改自TOM大佬的平地飞雷神，b键位跳跃的可以下这个\r\n平地使用装备盾牌和单手剑，使用之前必须获取飞雷神标记，挨打或者盾挡一次近战攻击。触发后不要动，等出现y提示时按y即可发动飞雷神。",
-                    "修改自TOM大佬的平地飛雷神，B鍵跳躍的可以下載這個\r\n平地使用裝備盾牌和單手劍，使用之前必須獲得飛雷神標記，受到攻擊或盾牌格擋一次近戰攻擊",
-                    "Modified from TOM's TCR, this version uses the B button to jump\r\nOn the ground, equip a shield and a one-handed sword. Before use, you must obtain the Thunderclap mark. Take a hit or block one melee attack with the shield"
-                ],
-                "author": "星之晨光"
-            }
-        }
-    ]
+    "updates": []
 }
