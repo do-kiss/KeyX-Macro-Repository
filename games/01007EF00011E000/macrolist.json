@@ -82,12 +82,12 @@
                 "Run Without Stamina Consumption"
             ],
             "desc": [
-                "让林克可以持续高速奔跑并且不消耗精力\r\n建议将该脚本快捷键设置为ZL+B\r\n在你推动摇杆使林克移动时，同时按下ZL和B触发这个宏，林克就可以高速奔跑并且不消耗精力。\r\n这个宏只有10s时间，如果你想要长时间奔跑，可以启动宏时ZL和B同时长按0.5s，这样可以持续循环播放该宏。\r\n你在设置宏快捷键的页面可以看到宏播放的使用方法。\r\n如果停止宏时出现了口哨声，你可以在使用ZL+B停止宏时，立刻再次按一次B，这样就不会在宏结束时造成口哨声响。",
-                "讓林克可以持續高速奔跑並且不消耗精力\r\n建議將該腳本快捷鍵設定為 ZL + B\r\n當你推動搖桿使林克移動時，同時按下 ZL 和 B 觸發這個宏，林克就可以高速奔跑並且不消耗精力。\r\n這個宏只有10秒時間，如果你想要長時間奔跑，可以啟動宏時 ZL 和 B 同時長按0.5秒，這樣可以持續循環播放該宏。\r\n你在設定宏快捷鍵的頁面可以看到宏播放的使用方法。\r\n如果停止宏時出現了口哨聲，你可以在使用 ZL + B 停止宏時，立刻再次按一次 B，這樣就不會在宏結束時造成口哨聲響。",
-                "Allow Link to continuously run at high speed without consuming stamina.\r\nIt is recommended to set the macro hotkey to ZL + B.\r\nWhen you push the joystick to move Link and press ZL and B simultaneously to trigger this macro, Link will run at high speed without stamina consumption.\r\nThis macro lasts for only 10 seconds. If you want to run for a longer time, press and hold ZL and B for 0.5 seconds when starting the macro to enable continuous loop playback.\r\nYou can see instructions on how to use the macro playback on the macro hotkey settings page.\r\nIf a whistle sound occurs when stopping the macro, you can immediately press B once again right after stopping the macro with ZL + B. This will prevent the whistle sound from playing at the end of the macro."
+                "让林克可以持续高速奔跑并且不消耗精力\r\n建议将该脚本快捷键设置为ZL+B\r\n在你推动摇杆使林克移动时，同时按下ZL和B触发这个宏，林克就可以高速奔跑并且不消耗精力。\r\n这个宏只有10s时间，如果你想要长时间奔跑，可以启动宏时ZL和B同时长按0.5s，这样可以持续循环播放该宏。\r\n你在设置宏快捷键的页面可以看到宏播放的使用方法。\r\n在你想要结束该宏时，应该先按ZL再同时按下B，否则会在结束时漏出口哨声。",
+                "讓林克可以持續高速奔跑並且不消耗精力\r\n建議將該腳本快捷鍵設定為 ZL + B\r\n當你推動搖桿使林克移動時，同時按下 ZL 和 B 觸發這個宏，林克就可以高速奔跑並且不消耗精力。\r\n這個宏只有10秒時間，如果你想要長時間奔跑，可以啟動宏時 ZL 和 B 同時長按0.5秒，這樣可以持續循環播放該宏。\r\n你在設定宏快捷鍵的頁面可以看到宏播放的使用方法。\r\n在你想要結束該宏時，應該先按 ZL，再同時按下 B，否則會在結束時漏出口哨聲。",
+                "Allow Link to continuously run at high speed without consuming stamina.\r\nIt is recommended to set the macro hotkey to ZL + B.\r\nWhen you push the joystick to move Link and press ZL and B simultaneously to trigger this macro, Link will run at high speed without stamina consumption.\r\nThis macro lasts for only 10 seconds. If you want to run for a longer time, press and hold ZL and B for 0.5 seconds when starting the macro to enable continuous loop playback.\r\nYou can see instructions on how to use the macro playback on the macro hotkey settings page.\r\nWhen you want to stop the macro, you should press ZL first, then press B simultaneously. Otherwise, a whistle sound may be missed when ending the macro."
             ],
             "author": "忘忧",
-            "downloads": 7
+            "downloads": 8
         }
     ]
 }
