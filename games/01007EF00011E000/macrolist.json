@@ -26,8 +26,7 @@
                 "身上必須裝備了弓箭\r\n站在臺階邊緣，背朝臺階使用\r\n無需事先選好炸彈",
                 "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
             ],
-            "author": "TOM",
-            "expire": 1766387927
+            "author": "TOM"
         },
         {
             "file": "1766368609_nfb8p1.macro",
@@ -41,8 +40,7 @@
                 "需要先選好圓形炸彈\r\n當你飄在空中不在有位移時使用\r\n可以通過觀察滑翔傘尾翼的氣流判斷\r\n宏裏面已經處理了搖桿，所以除了宏什麼都別按",
                 "Make sure the round bomb is selected first\r\nUse when you are floating in the air without any movement\r\nYou can judge by observing the airflow at the tail of the glider\r\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
-            "author": "TOM",
-            "expire": 1766388026
+            "author": "TOM"
         },
         {
             "file": "1766409101_753bd5.macro",
