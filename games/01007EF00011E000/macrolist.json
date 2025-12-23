@@ -88,6 +88,20 @@
             ],
             "author": "忘忧",
             "downloads": 39
+        },
+        {
+            "file": "1766504438_436935.macro",
+            "name": [
+                "原地风弹（60帧专用）",
+                "原地風彈（60 幀專用）",
+                "Stationary Windbomb (60 FPS Only)"
+            ],
+            "desc": [
+                "需要先选圆形炸弹。",
+                "需要先選擇圓形炸彈。",
+                "You must select the Round Bomb first."
+            ],
+            "author": "小杜加点醋"
         }
     ]
 }
