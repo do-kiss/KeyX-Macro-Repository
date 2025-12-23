@@ -1,21 +1,21 @@
 {
     "updates": [
         {
-            "target_file": "1766411973_ecef01.macro",
-            "origin": "published",
-            "ts": 1766456175,
+            "target_file": "1766463341_b8d065.macro",
+            "origin": "pending",
+            "ts": 1766463445,
             "data": {
                 "name": [
-                    "开发测试专用，不要下载",
-                    "开发测试专用，不要下载",
-                    "Test only, don't download"
+                    "212312312",
+                    "2",
+                    "123"
                 ],
                 "desc": [
-                    "这是一个测试，不要下载\r\n这是一个测试，不要下载\r\n这是一个测试，不要下载\r\n这是一个测试，不要下载",
+                    "12",
                     "",
-                    "Test only, don't download"
+                    ""
                 ],
-                "author": "忘忧"
+                "author": "1123123"
             }
         }
     ]
