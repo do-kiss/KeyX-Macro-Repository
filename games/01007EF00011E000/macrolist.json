@@ -57,37 +57,6 @@
                 "Modified from TOM's TCR, this version uses the B button to jump\r\nOn the ground, equip a shield and a one-handed sword. Before use, you must obtain the Thunderclap mark. Take a hit or block one melee attack with the shield"
             ],
             "author": "星之晨光"
-        },
-        {
-            "file": "1766463852_bac8f8.macro",
-            "name": [
-                "12",
-                "12",
-                "122"
-            ],
-            "desc": [
-                "12",
-                "",
-                ""
-            ],
-            "author": "12",
-            "expire": 1766465652,
-            "downloads": 1
-        },
-        {
-            "file": "1766463993_00711b.macro",
-            "name": [
-                "测试",
-                "测试",
-                "去"
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "测试",
-            "expire": 1766465793
         }
     ]
 }
