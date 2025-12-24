@@ -28,7 +28,7 @@
                 "You must have a bow equipped\r\nStand on the edge of the step with your back facing it\r\nNo need to pre‑select the bomb"
             ],
             "author": "TOM",
-            "downloads": 42
+            "downloads": 43
         },
         {
             "file": "1766368609_nfb8p1.macro",
@@ -101,7 +101,8 @@
                 "需要先選擇圓形炸彈。",
                 "You must select the Round Bomb first."
             ],
-            "author": "小杜加点醋"
+            "author": "小杜加点醋",
+            "downloads": 1
         },
         {
             "file": "1766538848_204c07.macro",
@@ -115,7 +116,8 @@
                 "選擇好圓形炸彈。啟動宏，自動舉盾，起跳同時下蛋。速度快，效率高，對地形基本沒要求。",
                 "Must choose circling Bob， The start。"
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         }
     ]
 }
