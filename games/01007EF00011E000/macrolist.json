@@ -133,6 +133,50 @@
             ],
             "author": "忘忧",
             "downloads": 12
+        },
+        {
+            "file": "1766690633_eed214.macro",
+            "name": [
+                "风弹（少量往上飞）",
+                "風彈（少量向上飛）",
+                "Wind Bomb (Slight Upward Launch)"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧",
+            "downloads": 1
+        },
+        {
+            "file": "1766691702_fd9a36.macro",
+            "name": [
+                "上升风弹",
+                "上升风弹",
+                "Upward Wind Bomb"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧",
+            "downloads": 1
+        },
+        {
+            "file": "1766693786_753e95.macro",
+            "name": [
+                "飞天风弹",
+                "飛天風彈",
+                "High Altitude Wind Bomb"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧"
         }
     ]
 }
