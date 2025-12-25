@@ -8,9 +8,9 @@
                 "Bitch Slap"
             ],
             "desc": [
-                "释放武器“真我本色”的技能“惊天手臂”，招式本身平庸且对手柄极不友好。爱护和平，禁止对手柄释放技能“婊气•奶凶小巴掌”。",
-                "釋放武器「真我本色」的技能「驚天手臂」，招式本身平庸且對手柄極不友好。愛護和平，禁止對手柄釋放技能「婊氣•奶兇小巴掌」。",
-                "Unleash the weapon \"Colour My World\" skill \"Astounding Touch.\" The move itself is underwhelming but notoriously demanding on controllers. For the sake of peace, please refrain from subjecting your controller to rage-induced smashing, hurling, or BITCH SLAPPING."
+                "释放武器“真我本色”的技能“惊天手臂”，招式本身平庸且对手柄极不友好。爱护和平，禁止对手柄释放技能“婊气•奶凶小巴掌”。\r\n快捷键推荐：ZL\/R + 十字键\/Y\/B (Type A)",
+                "釋放武器「真我本色」的技能「驚天手臂」，招式本身平庸且對手柄極不友好。愛護和平，禁止對手柄釋放技能「婊氣•奶兇小巴掌」。\r\n快捷鍵推薦：ZL\/R + 十字鍵\/Y\/B (Type A)",
+                "Unleash the weapon Colour My World's skill \"Astounding Touch\". The move itself is underwhelming but notoriously demanding on controller. For the sake of peace, please refrain from subjecting your controller to rage-induced smashing, hurling, or BITCH SLAPPING.\r\nShortcut key(recommended): ZL\/R + DPAD\/Y\/B (Type A)"
             ],
             "author": "艾蓬瑾瑜",
             "downloads": 17
@@ -20,15 +20,29 @@
             "name": [
                 "秀腿•闪电五连鞭",
                 "秀腿•閃電五連鞭",
-                "Lightning Five-Whip"
+                "A (so-called) Lightning-Fast Five-Strike Arts"
             ],
             "desc": [
-                "连续施展五次魔枪“真我本色”的技能“脑震荡回旋踢”，这个招式能造成毁灭性的破坏，但请注意，若采用“投机取巧地诱骗敌人，触发魔女时间后再发动偷袭”的战术，并非正道，因此也难以保证连环命中。此招式传承自史诗级流明贤者——“闪电五连鞭”创立者——天父•马。为发挥其潜藏的全部威力，请务必“讲武德”。",
-                "連續施展五次魔槍「真我本色」的技能「腦震蕩回旋踢」，這個招式能造成毀滅性的破壞，但請註意，若采用「投機取巧地誘騙敵人，觸發魔女時間後再發動偷襲」的戰術，並非正道，因此也難以保證連環命中。此招式傳承自史詩級流明賢者——「閃電五連鞭」創立者——天父•馬。為發揮其潛藏的全部威力，請務必「講武德」。",
-                "Unleash the weapon \"Colour My World's\" skill \"Concussion Step.\" This technique delivers massive destruction — though the “cheese-and-sneak” tactic of luring enemies into Witch Time for an ambush is dishonorable at best, and as such, hardly guarantees a successful combo. Inspired by the legendary Lumen Sage, Father Ma, creator of the “Lightning Five-Whip, it demands to be wielded \"with honor and integrity\" to achieve its full potential."
+                "连续施展五次魔枪“真我本色”的技能“脑震荡回旋踢”，此招能造成毁灭性的破坏，但若采用“投机取巧地诱骗敌人，触发魔女时间后再发动偷袭”的战术并非正道，因此难以保证连环命中。招式传承自史诗级流明贤者——“松果 糖豆 闪电鞭”的创立者——天父•马。为发挥其潜藏的全部威力，请讲武德，好自为之。\r\n快捷键推荐：R + 十字键\/Y\/B(Type A)",
+                "連續施展五次魔槍“真我本色”的技能“腦震蕩回旋踢”，此招能造成毀滅性的破壞，但若采用“投機取巧地誘騙敵人，觸發魔女時間後再發動偷襲”的戰術並非正道，因此難以保證連環命中。招式傳承自史詩級流明賢者——“松果 糖豆 閃電鞭”的創立者——天父•馬。為發揮其潛藏的全部威力，請講武德，好自為之。\r\n快捷鍵推薦：R + 十字鍵\/Y\/B(Type A)",
+                "Unleash the weapon Colour My World's skill \"Concussion Step\" five times in a row. This technique delivers massive destruction — though the “cheese-and-sneak” tactic of luring enemies into Witch Time for an ambush is dishonorable at best, and as such, hardly guarantees a successful combo. Inspired by the legendary Lumen Sage, Father Ma, creator of the \"Pinecone Candy Lightning Whip\" technique, it demands to be wielded \"with honor and integrity\" to achieve its full potential.\r\nShortcut key(recommended): R + DPAD\/Y\/B (Type A)"
             ],
             "author": "艾蓬瑾瑜",
             "downloads": 8
+        },
+        {
+            "file": "1766677492_3dcdee.macro",
+            "name": [
+                "外道·黑魔法飞升",
+                "外道·黑魔法飛升",
+                "The Soaring Wicked"
+            ],
+            "desc": [
+                "薇欧拉指挥小柴猫使用异次元黑洞Bug瞬移小型敌人，然后御剑飞升。\r\n快捷键推荐使用 L + 十字键 (Type A)",
+                "薇歐拉指揮小柴貓使用異次元黑洞Bug瞬移小型敵人，然後禦劍飛升。\r\n快捷鍵推薦使用 L + 十字鍵 (Type A)",
+                "Having fixed a fazing hex, the quick violet pussycat jumps over a lame dumb dawg.\r\nBuggy pulling only effects on lightweight enemy.\r\nShortcut key(recommended): L + DPAD (Type A)"
+            ],
+            "author": "艾蓬瑾瑜"
         }
     ]
 }

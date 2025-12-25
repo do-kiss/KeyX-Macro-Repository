@@ -1,19 +1,3 @@
 {
-    "macros": [
-        {
-            "file": "1766677492_3dcdee.macro",
-            "name": [
-                "外道·黑魔法飞升",
-                "外道·黑魔法飛升",
-                "The Soaring Wicked"
-            ],
-            "desc": [
-                "薇欧拉指挥小柴猫使用异次元黑洞Bug瞬移小型敌人，然后御剑飞升。\r\n快捷键推荐使用 L + 十字键 (Type A)",
-                "薇歐拉指揮小柴貓使用異次元黑洞Bug瞬移小型敵人，然後禦劍飛升。\r\n快捷鍵推薦使用 L + 十字鍵 (Type A)",
-                "Having fixed a fazing hex, the quick violet pussycat jumps over a lame dumb dawg.\r\nBuggy pulling only effects on lightweight enemy.\r\nShortcut key(recommended): L + DPAD (Type A)"
-            ],
-            "author": "艾蓬瑾瑜",
-            "status": "pending"
-        }
-    ]
+    "macros": []
 }
