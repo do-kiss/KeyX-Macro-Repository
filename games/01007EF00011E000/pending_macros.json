@@ -1,3 +1,19 @@
 {
-    "macros": []
+    "macros": [
+        {
+            "file": "1766690633_eed214.macro",
+            "name": [
+                "风弹（少量往上飞）",
+                "風彈（少量向上飛）",
+                "Wind Bomb (Slight Upward Launch)"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "忘忧",
+            "status": "pending"
+        }
+    ]
 }
