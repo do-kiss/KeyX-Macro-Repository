@@ -18,14 +18,14 @@
         {
             "file": "1766482879_d72392.macro",
             "name": [
-                "秀腿•闪电五连鞭",
-                "秀腿•閃電五連鞭",
+                "绣腿•闪电五连鞭",
+                "繡腿•閃電五連鞭",
                 "A (so-called) Lightning-Fast Five-Strike Arts"
             ],
             "desc": [
-                "连续施展五次魔枪“真我本色”的技能“脑震荡回旋踢”，此招能造成毁灭性的破坏，但若采用“投机取巧地诱骗敌人，触发魔女时间后再发动偷袭”的战术并非正道，因此难以保证连环命中。招式传承自史诗级流明贤者——“松果 糖豆 闪电鞭”的创立者——天父•马。为发挥其潜藏的全部威力，请讲武德，好自为之。\r\n快捷键推荐：R + 十字键\/Y\/B(Type A)",
-                "連續施展五次魔槍“真我本色”的技能“腦震蕩回旋踢”，此招能造成毀滅性的破壞，但若采用“投機取巧地誘騙敵人，觸發魔女時間後再發動偷襲”的戰術並非正道，因此難以保證連環命中。招式傳承自史詩級流明賢者——“松果 糖豆 閃電鞭”的創立者——天父•馬。為發揮其潛藏的全部威力，請講武德，好自為之。\r\n快捷鍵推薦：R + 十字鍵\/Y\/B(Type A)",
-                "Unleash the weapon Colour My World's skill \"Concussion Step\" five times in a row. This technique delivers massive destruction — though the “cheese-and-sneak” tactic of luring enemies into Witch Time for an ambush is dishonorable at best, and as such, hardly guarantees a successful combo. Inspired by the legendary Lumen Sage, Father Ma, creator of the \"Pinecone Candy Lightning Whip\" technique, it demands to be wielded \"with honor and integrity\" to achieve its full potential.\r\nShortcut key(recommended): R + DPAD\/Y\/B (Type A)"
+                "连续施展五次魔枪“真我本色”的技能“脑震荡回旋踢”，此招能造成毁灭性的破坏，但若采用“投机取巧地诱骗敌人，触发魔女时间后再发动偷袭”的战术并非正道，因此难以保证连环命中。招式传承自史诗级流明贤者——奥艺“松果、糖豆、闪电鞭”的创立者——天父•马。为发挥其潜藏的全部威力，请讲武德，好自为之。\r\n快捷键推荐：ZL\/R + 十字键\/Y\/B(Type A)",
+                "連續施展五次魔槍「真我本色」的技能「腦震蕩回旋踢」，此招能造成毀滅性的破壞，但若采用“投機取巧地誘騙敵人，觸發魔女時間後再發動偷襲”的戰術並非正道，因此難以保證連環命中。招式傳承自史詩級流明賢者——奧藝“松果、糖豆、閃電鞭”的創立者——天父•馬。為發揮其潛藏的全部威力，請講武德，好自為之。\r\n快捷鍵推薦：ZL\/R + 十字鍵\/Y\/B(Type A)",
+                "Unleash the weapon Colour My World's skill \"Concussion Step\" five times in a row. This technique delivers massive destruction — though the “cheese-and-sneak” tactic of luring enemies into Witch Time for an ambush is dishonorable at best, and as such, hardly guarantees a successful combo. Inspired by the legendary Lumen Sage, Father Ma, creator of the \"Pinecone Candy Lightning Whip\" technique, it demands to be wielded \"with honor and integrity\" to achieve its full potential.\r\nShortcut key(recommended): ZL\/R + DPAD\/Y\/B (Type A)"
             ],
             "author": "艾蓬瑾瑜",
             "downloads": 8
@@ -44,6 +44,20 @@
             ],
             "author": "艾蓬瑾瑜",
             "downloads": 1
+        },
+        {
+            "file": "1766744680_569fab.macro",
+            "name": [
+                "颠颤·野蜂飞舞",
+                "顛顫·野蜂飛舞",
+                "Flight of the Bumblebee"
+            ],
+            "desc": [
+                "薇欧拉运用“架刀衔接”(颠勺抖刀)的技巧快速施展组合技“三速两重”(PPPKK)，故技重施能令其或对手逐渐升空。训狗拆招？唯快不破(各打各的)！\r\n快捷键推荐： L + 十字键左\/上\/右 (Type A)",
+                "薇歐拉運用「架刀銜接」(顛勺抖刀)的技巧快速施展組合技「三速兩重」(PPPKK)，故技重施能令其或對手逐漸升空。訓狗拆招？唯快不破(各打各的)！\r\n快捷鍵推薦： L + 十字鍵左\/上\/右 (Type A)",
+                "Viola’s skill “Blocking Offset” lets her quickly release PPPKK combo in a buzzing glitchy way. Chain it successfully to launch opponent or keep gaining altitude when she is airborne. Read & React? Nah, we're going a Mash Fest!\r\nShortcut key(recommended): L + DPAD←\/↑\/→ (Type A)"
+            ],
+            "author": "艾蓬瑾瑜"
         }
     ]
 }
