@@ -13,7 +13,7 @@
                 "First run, then use the macro, and it can be triggered correctly\nCannot be used on uphill slopes\nIf you trigger the macro first and then push the analog stick, it can also be used as a somersault spin double jump"
             ],
             "author": "TOM",
-            "downloads": 23
+            "downloads": 24
         },
         {
             "file": "1766368609_tr71q4.macro",
@@ -28,7 +28,7 @@
                 "Trigger the macro first, jump, and immediately push the analog stick to perform a somersault spin double jump\nIf you start running first and then trigger the macro, it can also be used as a long spin double jump"
             ],
             "author": "TOM",
-            "downloads": 22
+            "downloads": 23
         },
         {
             "file": "1766470748_6db563.macro",
@@ -43,7 +43,7 @@
                 "Jump onto the cap after throwing it for a bounce\r\nJust use it directly, no special requirements"
             ],
             "author": "TOM",
-            "downloads": 1
+            "downloads": 2
         },
         {
             "file": "1766470859_ba575a.macro",
@@ -57,7 +57,8 @@
                 "先跑起來再使用宏就可以正確觸發\r\n帽子二段跳中間插一個B鍵的旋轉",
                 "First run, then use the macro, and it can be triggered correctly\r\nInsert a B-button spin between the two jumps of a cap jump"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 1
         },
         {
             "file": "1766470915_3930d8.macro",
@@ -71,7 +72,8 @@
                 "先觸發宏，跳起來立馬推搖桿，就能實現後空翻二段跳\r\n如果你先跑起來，再觸發宏，還可以當大跳二段跳",
                 "Trigger the macro first, jump, and immediately push the analog stick to perform a backflip double jump\r\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\r\nIf you start running first and then trigger the macro, it can also be used as a long jump double jump"
             ],
-            "author": "TOM"
+            "author": "TOM",
+            "downloads": 1
         },
         {
             "file": "1766470983_1f5b63.macro",
@@ -86,7 +88,7 @@
                 "First run, then use the macro, and it can be triggered correctly\r\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\r\nIf you trigger the macro first and then push the analog stick, it can also be used as a backflip double jump"
             ],
             "author": "TOM",
-            "downloads": 1
+            "downloads": 2
         }
     ]
 }
