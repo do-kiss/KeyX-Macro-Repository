@@ -1,3 +1,22 @@
 {
-    "updates": []
+    "updates": [
+        {
+            "target_file": "1766677492_3dcdee.macro",
+            "origin": "published",
+            "ts": 1766823450,
+            "data": {
+                "name": [
+                    "外道·黑魔法飞升",
+                    "外道·黑魔法飛升",
+                    "The Soaring Wicked"
+                ],
+                "desc": [
+                    "薇欧拉指挥小柴猫使用异次元黑洞Bug瞬移小型敌人，然后御剑飞升。\r\n使用Bug前，请先确认薇欧拉的3项技能(后述)处于启用状态，并且暂停召唤小柴猫：大鼓小猫、后燃器喷射踢、半音之月\r\n快捷键推荐使用 L + 十字键 (Type A)",
+                    "薇歐拉指揮小柴貓使用異次元黑洞Bug瞬移小型敵人，然後禦劍飛升。\r\n使用Bug前，請先確認薇歐拉的3項技能(後述)處於啟用狀態，並且暫停召喚小柴貓：「大鼓小貓」、「後燃器噴射踢」、「半音之月」\r\n快捷鍵推薦使用 L + 十字鍵 (Type A)",
+                    "Having fixed a fazing hex, the quick violet pussycat jumps over a lame dumb dawg.\r\nBuggy pulling only effects on lightweight enemy.\r\nBefore performing this arts, make sure to UNLOCK & ENABLE 3 skills for V.I.O.L.F*.A. and STOP summoning cheshire: After Burner Kick, Bass Boost, Chromatic Moon.\r\nShortcut key(recommended): L + DPAD (Type A)"
+                ],
+                "author": "艾蓬瑾瑜"
+            }
+        }
+    ]
 }
