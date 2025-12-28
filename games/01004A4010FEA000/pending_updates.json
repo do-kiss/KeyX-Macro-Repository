@@ -1,22 +1,3 @@
 {
-    "updates": [
-        {
-            "target_file": "1766831345_676bba.macro",
-            "origin": "published",
-            "ts": 1766919042,
-            "data": {
-                "name": [
-                    "禁忌·通幽役冥无缝偕·其一",
-                    "禁忌·通幽役冥無縫偕·其壹",
-                    "Tabú - Demon Slave Offset - Fragment I"
-                ],
-                "desc": [
-                    "失传的上古巫术之一,舞通巫，无缝偕？究竟是指预言占卜时以身为媒以舞降神的沟通之术，还是在祭祀活动中踏出从凡俗迈入灵域的步法？亦或与军事战争兵法相关？\r\n术者不详、神灵不详、祭器不详、牺牲不详、术式不详、仪容不详、契约不详\r\n快捷键：不明",
-                    "失傳的上古巫術之壹,舞通巫，「無縫偕」？究竟是指預言占蔔時以身為媒以舞降神的溝通之術，還是在祭祀活動中踏出從凡俗邁入靈域的步法？亦或與軍事戰爭兵法相關？\r\n術者不詳、神靈不詳、祭器不詳、犧牲不詳、術式不詳、儀容不詳、契約不詳\r\n快捷鍵：不明",
-                    "One Ancient shadow-craft lost for good! Whispers through ages ask: Was it a prophetic rite, the dancer’s body a living channel to descend the gods? A ceremonial crossing, a pace that traversed the veil between worlds in sacrifice? Or might its rhythms have encoded a deeper, older stratagem—a dance not of prayer, but of war?\r\nCaster: Undocumented\r\nFamiliar: Undocumented\r\nArtefact: Undocumented\r\nOffering: Undocumented\r\nSigil: Undocumented\r\nVestment: Undocumented\r\nPact: Undocumented\r\nShortcut Key: Unknown"
-                ],
-                "author": "艾蓬瑾瑜"
-            }
-        }
-    ]
+    "updates": []
 }
