@@ -1,22 +1,6 @@
 {
     "macros": [
         {
-            "file": "1767403976_305b76.macro",
-            "name": [
-                "",
-                "",
-                ""
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "",
-            "status": "draft",
-            "expire": 1767405776
-        },
-        {
             "file": "1767404485_5623f3.macro",
             "name": [
                 "Bench Macro",
