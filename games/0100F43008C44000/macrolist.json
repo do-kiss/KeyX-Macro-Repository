@@ -1,0 +1,18 @@
+{
+    "macros": [
+        {
+            "file": "1767404485_5623f3.macro",
+            "name": [
+                "刷闪",
+                "刷閃",
+                "Bench Macro [Shiny Hunt]"
+            ],
+            "desc": [
+                "背对长椅使用\r\n推荐按键L+R+A\r\n持续按住快捷键0.5秒开启循环",
+                "背對長椅使用\r\n推薦按鍵 L+R+A\r\n持續按住快捷鍵 0.5 秒開啟循環",
+                "Position yourself with your back to the bench you've chosen to sit on, as if you were just killing time. Press L+R+A to activate the macro, holding these buttons for one second to start the loop."
+            ],
+            "author": "FuuDigo"
+        }
+    ]
+}
