@@ -73,7 +73,7 @@
                 "Allow Link to continuously run at high speed without consuming stamina.\r\nIt is recommended to set the macro hotkey to ZL + B.\r\nWhen you push the joystick to move Link and press ZL and B simultaneously to trigger this macro, Link will run at high speed without stamina consumption.\r\nThis macro lasts for only 10 seconds. If you want to run for a longer time, press and hold ZL and B for 0.5 seconds when starting the macro to enable continuous loop playback.\r\nYou can see instructions on how to use the macro playback on the macro hotkey settings page.\r\nWhen you want to stop the macro, you should press ZL first, then press B simultaneously. Otherwise, a whistle sound may be missed when ending the macro."
             ],
             "author": "忘忧",
-            "downloads": 63
+            "downloads": 64
         },
         {
             "file": "1766504438_436935.macro",
