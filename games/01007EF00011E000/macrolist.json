@@ -13,7 +13,7 @@
                 "Use drop egg to connect forward jump, detonate, and then backflip method, increase aerial height, thus trigger Flying Thunder God\r\nAfter triggering the macro, do not perform extra actions, just wait until the Flurry Rush Y button indicator appears"
             ],
             "author": "TOM",
-            "downloads": 140
+            "downloads": 141
         },
         {
             "file": "1766368609_rv83sw.macro",
@@ -58,7 +58,7 @@
                 "Modified from TOM's TCR, this version uses the B button to jump\r\nOn the ground, equip a shield and a one-handed sword. Before use, you must obtain the Thunderclap mark. Take a hit or block one melee attack with the shield"
             ],
             "author": "星之晨光",
-            "downloads": 76
+            "downloads": 77
         },
         {
             "file": "1766471164_ce3942.macro",
@@ -73,7 +73,7 @@
                 "Allow Link to continuously run at high speed without consuming stamina.\r\nIt is recommended to set the macro hotkey to ZL + B.\r\nWhen you push the joystick to move Link and press ZL and B simultaneously to trigger this macro, Link will run at high speed without stamina consumption.\r\nThis macro lasts for only 10 seconds. If you want to run for a longer time, press and hold ZL and B for 0.5 seconds when starting the macro to enable continuous loop playback.\r\nYou can see instructions on how to use the macro playback on the macro hotkey settings page.\r\nWhen you want to stop the macro, you should press ZL first, then press B simultaneously. Otherwise, a whistle sound may be missed when ending the macro."
             ],
             "author": "忘忧",
-            "downloads": 66
+            "downloads": 67
         },
         {
             "file": "1766504438_436935.macro",
@@ -118,7 +118,7 @@
                 ""
             ],
             "author": "忘忧",
-            "downloads": 21
+            "downloads": 22
         },
         {
             "file": "1766693786_753e95.macro",
@@ -133,7 +133,7 @@
                 ""
             ],
             "author": "忘忧",
-            "downloads": 40
+            "downloads": 41
         },
         {
             "file": "1766697707_04d953.macro",
@@ -148,7 +148,7 @@
                 ""
             ],
             "author": "忘忧",
-            "downloads": 36
+            "downloads": 37
         }
     ]
 }
