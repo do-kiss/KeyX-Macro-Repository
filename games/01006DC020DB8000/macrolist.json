@@ -12,7 +12,8 @@
                 "快捷鍵必須包含 A 鍵，需在第一個節拍輸入快捷鍵，之後將自動完成 29 秒的小遊戲。\r\n若需要使用其他快捷鍵，請在第一行自行加入 A 鍵（100 毫秒）。",
                 "The shortcut must include the A button.\r\nThe shortcut needs to be triggered on the first beat, after which the 29-second mini-game will be completed automatically.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768818280_a277fe.macro",
@@ -26,7 +27,8 @@
                 "快捷鍵必須包含 A 鍵，需在第一個節拍輸入快捷鍵，之後將自動完成 29 秒的小遊戲。\r\n若需要使用其他快捷鍵，請在第一行自行加入 A 鍵（100 毫秒）。",
                 "The shortcut must include the A button.\r\nThe shortcut needs to be triggered on the first beat, after which the 29-second mini-game will be completed automatically.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768818358_d5b939.macro",
@@ -40,7 +42,8 @@
                 "快捷鍵必須包含 A 鍵，需在第一個節拍輸入快捷鍵，之後將自動完成 29 秒的小遊戲。\r\n若需要使用其他快捷鍵，請在第一行自行加入 A 鍵（100 毫秒）。",
                 "The shortcut must include the A button.\r\nThe shortcut needs to be triggered on the first beat, after which the 29-second mini-game will be completed automatically.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768818410_84e94a.macro",
@@ -82,7 +85,8 @@
                 "快捷鍵必須包含 Y 鍵，需卡節拍按下快捷鍵，將自動完成移動打鼓，同時往右推動左搖桿以往前看。\r\n若要使用其他快捷鍵，請在第一行自行加入 Y 鍵（100 毫秒）。",
                 "The shortcut must include the Y button.\r\nPress the shortcut on the beat to automatically complete Moving Drumming, while pushing the left stick to the right to look forward.\r\nIf you want to use a different shortcut, manually add the Y button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768818893_e9c3c6.macro",
@@ -96,7 +100,8 @@
                 "快捷鍵必須包含 A 鍵，需卡節拍按下快捷鍵，將自動完成一次進攻打鼓，不能循環完成。\r\n如需使用其他快捷鍵，請在第一行自行加入 A 鍵（100 毫秒）。",
                 "The shortcut must include the A button.\r\nPress the shortcut on the beat to automatically complete a single Attack Drumming, without repeating in a loop.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768819303_95937f.macro",
@@ -110,7 +115,8 @@
                 "快捷鍵不能包含 A、B、X、Y 任何鍵，按住快捷鍵達到循環播放時間後，卡鼓點松開快捷鍵，之後將自動循環完成進攻指令。",
                 "The shortcut must not include any of the A, B, X, or Y buttons.\r\nHold the shortcut for the duration of the looped playback, then release on the drum beat, after which the Attack command will continue automatically in a loop."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768819487_d8afb1.macro",
@@ -124,7 +130,8 @@
                 "快捷鍵必須包含 X 鍵，不能包含 A、B、Y 鍵，將自動完成一次防禦指令，不能循環。\r\n如需使用不含 X 的快捷鍵，請在第一行自行加入 X 鍵（100 毫秒）",
                 "The shortcut must include the X button and must not include A, B, or Y buttons.\r\nIt will automatically execute a single Defense command, without looping.\r\nIf you want to use a shortcut that does not include X, manually add the X button (100 ms) in the first line."
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         }
     ]
 }
