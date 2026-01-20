@@ -46,34 +46,6 @@
             "downloads": 1
         },
         {
-            "file": "1768818410_84e94a.macro",
-            "name": [
-                "召唤奇迹",
-                "召唤奇迹",
-                "Summon a miracle"
-            ],
-            "desc": [
-                "快捷键必须包含B键，卡节拍按下快捷键，自动完成奇迹召唤，如用其他快捷键，自行在第一行添加B键100毫秒。",
-                "快捷鍵必須包含 B 鍵，需卡節拍按下快捷鍵，將自動完成奇蹟召喚。\r\n若要使用其他快捷鍵，請在第一行自行加入 B 鍵（100 毫秒）。",
-                "The shortcut must include the B button.\r\nPress the shortcut on the beat to automatically complete the Miracle Summon.\r\nIf you want to use a different shortcut, manually add the B button (100 ms) in the first line."
-            ],
-            "author": "FCH"
-        },
-        {
-            "file": "1768818590_2c7df3.macro",
-            "name": [
-                "下雨节拍",
-                "下雨節拍",
-                "Rain Beat"
-            ],
-            "desc": [
-                "快捷键必须包含A键，卡节拍按下快捷键，自动完成下雨打鼓，如用其他快捷键，自行在第一行添加A键100毫秒。",
-                "快捷鍵必須包含 A 鍵，需卡節拍按下快捷鍵，將自動完成下雨打鼓。\r\n若要使用其他快捷鍵，請在第一行自行加入 A 鍵（100 毫秒）。",
-                "The shortcut must include the A button.\r\nPress the shortcut on the beat to automatically complete Rain Drumming.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
-            ],
-            "author": "FCH"
-        },
-        {
             "file": "1768818723_39eb5b.macro",
             "name": [
                 "移动且视角往前看",
@@ -132,6 +104,34 @@
             ],
             "author": "FCH",
             "downloads": 1
+        },
+        {
+            "file": "1768886870_633128.macro",
+            "name": [
+                "下雨",
+                "下雨",
+                "Rain"
+            ],
+            "desc": [
+                "组合键必须有A，不能有BXY，卡第一个节拍输入快捷键，如需不使用A作为快捷键，自行在第一行添加A键100毫秒",
+                "组合键必须有A，不能有BXY，卡第一个节拍输入快捷键，如需不使用A作为快捷键，自行在第一行添加A键100毫秒",
+                "must have A,no use BXY"
+            ],
+            "author": "FCH"
+        },
+        {
+            "file": "1768887002_a96403.macro",
+            "name": [
+                "奇迹",
+                "奇迹",
+                "miracle"
+            ],
+            "desc": [
+                "快捷键必须有B，不能有AXY，卡节拍输入快捷键，如需不使用B，自行在第一行添加B键100毫秒。",
+                "快捷键必须有B，不能有AXY，卡节拍输入快捷键，如需不使用B，自行在第一行添加B键100毫秒。",
+                "must have B,no use AXY"
+            ],
+            "author": "FCH"
         }
     ]
 }
