@@ -88,7 +88,7 @@
                 "First run, then use the macro, and it can be triggered correctly\r\nThis is a flat-ground macro. If it is used on an uphill slope, it will fail.\r\nIf you trigger the macro first and then push the analog stick, it can also be used as a backflip double jump"
             ],
             "author": "TOM",
-            "downloads": 5
+            "downloads": 6
         }
     ]
 }
