@@ -117,7 +117,8 @@
                 "组合键必须有A，不能有BXY，卡第一个节拍输入快捷键，如需不使用A作为快捷键，自行在第一行添加A键100毫秒",
                 "must have A,no use BXY"
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         },
         {
             "file": "1768887002_a96403.macro",
@@ -131,7 +132,8 @@
                 "快捷键必须有B，不能有AXY，卡节拍输入快捷键，如需不使用B，自行在第一行添加B键100毫秒。",
                 "must have B,no use AXY"
             ],
-            "author": "FCH"
+            "author": "FCH",
+            "downloads": 1
         }
     ]
 }
