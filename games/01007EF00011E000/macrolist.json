@@ -88,7 +88,7 @@
                 "You must select the Round Bomb first."
             ],
             "author": "小杜加点醋",
-            "downloads": 81
+            "downloads": 82
         },
         {
             "file": "1766538848_204c07.macro",
@@ -162,7 +162,8 @@
                 "可以達成在存檔介面依然可以操縱林克的效果，進而在過場動畫時存檔。先確保地圖介面的游標停留在任意圖鑑上，背包介面的游標停留在傳送標記器上（放在第二排任意位置）。退出背包，同時按A和B觸發。注意，這不是百分之百成功的，成功率約為25%左右。",
                 "It is possible to achieve an effect where Link can still be controlled on the save interface, allowing saving during cutscenes. First, ensure the cursor on the map interface stays on any log entry, and the cursor in the inventory interface stays on the travel medallion (placed in any position in the second row). Exit the inventory, then press A and B simultaneously to trigger it. Note that this is not 100% successful, with a success rate of around 25%."
             ],
-            "author": "Mofei"
+            "author": "Mofei",
+            "downloads": 1
         }
     ]
 }
