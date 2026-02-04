@@ -163,7 +163,7 @@
                 "It is possible to achieve an effect where Link can still be controlled on the save interface, allowing saving during cutscenes. First, ensure the cursor on the map interface stays on any log entry, and the cursor in the inventory interface stays on the travel medallion (placed in any position in the second row). Exit the inventory, then press A and B simultaneously to trigger it. Note that this is not 100% successful, with a success rate of around 25%."
             ],
             "author": "Mofei",
-            "downloads": 2
+            "downloads": 3
         }
     ]
 }
