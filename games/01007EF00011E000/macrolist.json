@@ -13,7 +13,7 @@
                 "Use drop egg to connect forward jump, detonate, and then backflip method, increase aerial height, thus trigger Flying Thunder God\r\nAfter triggering the macro, do not perform extra actions, just wait until the Flurry Rush Y button indicator appears"
             ],
             "author": "TOM",
-            "downloads": 193
+            "downloads": 194
         },
         {
             "file": "1766368609_rv83sw.macro",
@@ -43,7 +43,7 @@
                 "Make sure the round bomb is selected first\r\nUse when you are floating in the air without any movement\r\nYou can judge by observing the airflow at the tail of the glider\r\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
             "author": "TOM",
-            "downloads": 187
+            "downloads": 188
         },
         {
             "file": "1766409101_753bd5.macro",
@@ -133,7 +133,7 @@
                 ""
             ],
             "author": "忘忧",
-            "downloads": 84
+            "downloads": 85
         },
         {
             "file": "1766697707_04d953.macro",
@@ -163,7 +163,7 @@
                 "It is possible to achieve an effect where Link can still be controlled on the save interface, allowing saving during cutscenes. First, ensure the cursor on the map interface stays on any log entry, and the cursor in the inventory interface stays on the travel medallion (placed in any position in the second row). Exit the inventory, then press A and B simultaneously to trigger it. Note that this is not 100% successful, with a success rate of around 25%."
             ],
             "author": "Mofei",
-            "downloads": 4
+            "downloads": 8
         }
     ]
 }
