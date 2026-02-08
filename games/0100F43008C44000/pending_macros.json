@@ -35,18 +35,17 @@
         {
             "file": "1770573483_ca8573.macro",
             "name": [
-                "",
-                "",
-                ""
+                "返回入口的超空间",
+                "返回入口的超空间",
+                "Hyperspace back to entrance"
             ],
             "desc": [
-                "",
-                "",
-                ""
+                "打开地图 > 返回超空间旷野地带入口。用途：反复刷新入口附近的怪物。",
+                "打开地图 > 返回超空间旷野地带入口。用途：反复刷新入口附近的怪物。",
+                "Opens map > back to hyperspace wild zone entrance. Usage: Respawning mons close to entrance over and over."
             ],
-            "author": "",
-            "status": "draft",
-            "expire": 1770575283
+            "author": "Eulloyd",
+            "status": "pending"
         }
     ]
 }
