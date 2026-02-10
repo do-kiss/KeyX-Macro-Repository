@@ -1,7 +1,7 @@
 {
     "macros": [
         {
-            "file": "1770703902_11d6f9.macro",
+            "file": "1770705905_567c85.macro",
             "name": [
                 "",
                 "",
@@ -14,23 +14,7 @@
             ],
             "author": "",
             "status": "draft",
-            "expire": 1770705702
-        },
-        {
-            "file": "1770703905_0c2172.macro",
-            "name": [
-                "",
-                "",
-                ""
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "",
-            "status": "draft",
-            "expire": 1770705705
+            "expire": 1770707705
         }
     ]
 }
