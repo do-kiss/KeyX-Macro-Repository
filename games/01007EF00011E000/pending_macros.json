@@ -1,19 +1,3 @@
 {
-    "macros": [
-        {
-            "file": "1771404187_80aed2.macro",
-            "name": [
-                "摩托车\/马风弹（坐骑风弹）",
-                "摩托車\/馬風彈（坐騎風彈）",
-                "Motorcycle\/Horse Wind Bullet (Mount Wind Bullet) （Baidu Translate it）"
-            ],
-            "desc": [
-                "骑在坐骑上，触发宏即可，不要做任何动作。也不用调成炸弹，宏会自动调的。",
-                "騎在坐騎上，觸發宏即可，不要做任何動作。 也不用調成炸彈，宏會自動調的。",
-                "Riding on the mount, trigger the macro and do not make any movements. There's no need to turn it into a bomb, the macro will automatically adjust it. （Baidu Translate it）"
-            ],
-            "author": "justaikun",
-            "status": "pending"
-        }
-    ]
+    "macros": []
 }
