@@ -43,7 +43,7 @@
                 "Make sure the round bomb is selected first\r\nUse when you are floating in the air without any movement\r\nYou can judge by observing the airflow at the tail of the glider\r\nThe macro has already handled the joystick, so do not press anything else except the macro"
             ],
             "author": "TOM",
-            "downloads": 217
+            "downloads": 218
         },
         {
             "file": "1766409101_753bd5.macro",
@@ -177,7 +177,8 @@
                 "騎在坐騎上，觸發宏即可，不要做任何動作。 也不用調成炸彈，宏會自動調的。",
                 "Riding on the mount, trigger the macro and do not make any movements. There's no need to turn it into a bomb, the macro will automatically adjust it. （Baidu Translate it）"
             ],
-            "author": "justaikun"
+            "author": "justaikun",
+            "downloads": 1
         }
     ]
 }
