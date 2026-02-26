@@ -58,7 +58,7 @@
                 "The shortcut must include the Y button.\r\nPress the shortcut on the beat to automatically complete Moving Drumming, while pushing the left stick to the right to look forward.\r\nIf you want to use a different shortcut, manually add the Y button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 2
+            "downloads": 3
         },
         {
             "file": "1768818893_e9c3c6.macro",
@@ -73,7 +73,7 @@
                 "The shortcut must include the A button.\r\nPress the shortcut on the beat to automatically complete a single Attack Drumming, without repeating in a loop.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 3
+            "downloads": 4
         },
         {
             "file": "1768819303_95937f.macro",
@@ -103,7 +103,7 @@
                 "The shortcut must include the X button and must not include A, B, or Y buttons.\r\nIt will automatically execute a single Defense command, without looping.\r\nIf you want to use a shortcut that does not include X, manually add the X button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 3
+            "downloads": 4
         },
         {
             "file": "1768886870_633128.macro",
@@ -118,7 +118,7 @@
                 "must have A,no use BXY"
             ],
             "author": "FCH",
-            "downloads": 3
+            "downloads": 4
         },
         {
             "file": "1768887002_a96403.macro",
