@@ -1,3 +1,20 @@
 {
-    "macros": []
+    "macros": [
+        {
+            "file": "1772279165_62a444.macro",
+            "name": [
+                "",
+                "",
+                ""
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "",
+            "status": "draft",
+            "expire": 1772280965
+        }
+    ]
 }
