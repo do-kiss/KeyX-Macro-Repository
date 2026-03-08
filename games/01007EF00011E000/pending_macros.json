@@ -1,36 +1,3 @@
 {
-    "macros": [
-        {
-            "file": "1772997402_de43d1.macro",
-            "name": [
-                "",
-                "",
-                ""
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "",
-            "status": "draft",
-            "expire": 1772999202
-        },
-        {
-            "file": "1772997566_1549aa.macro",
-            "name": [
-                "",
-                "",
-                ""
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "",
-            "status": "draft",
-            "expire": 1772999366
-        }
-    ]
+    "macros": []
 }
