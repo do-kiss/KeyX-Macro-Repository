@@ -15,6 +15,21 @@
             "author": "",
             "status": "draft",
             "expire": 1773316211
+        },
+        {
+            "file": "1773315711_aad9a3.macro",
+            "name": [
+                "餐厅刷等级",
+                "餐廳刷等級",
+                "Dining room brush level"
+            ],
+            "desc": [
+                "在谱通餐馆自动刷等级",
+                "在譜通餐館自動刷等級",
+                "Automatically brush the grade at the Pantone Restaurant"
+            ],
+            "author": "绘梨",
+            "status": "pending"
         }
     ]
 }
