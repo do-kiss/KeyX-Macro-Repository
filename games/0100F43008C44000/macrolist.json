@@ -29,6 +29,34 @@
             ],
             "author": "Eulloyd",
             "downloads": 14
+        },
+        {
+            "file": "1773315711_aad9a3.macro",
+            "name": [
+                "餐厅刷等级",
+                "餐廳刷等級",
+                "Dining room brush level"
+            ],
+            "desc": [
+                "在谱通餐馆NPC面前长按ZL+↓即可开始自动刷等级",
+                "在譜通餐館NPC面前長按ZL+↓即可開始自動刷等級",
+                "Press ZL + ↓ for a long time in front of NPCs in the spectrum restaurant to start automatic level brushing."
+            ],
+            "author": "绘梨"
+        },
+        {
+            "file": "1773430606_619e00.macro",
+            "name": [
+                "刷闪光（头目）呱呱泡蛙",
+                "刷閃光（頭目）呱呱泡蛙",
+                "Brush Flash (Head) Quack Bubble Frog"
+            ],
+            "desc": [
+                "需手动传送一次第五区，传送完成后不要移动，长按ZL+L宏循环自动传送第五区刷闪",
+                "需手動傳送一次第五區，傳送完成后不要移動，長按ZL+L宏循環自動傳送第五區刷閃",
+                "Need to manually transfer the fifth area once, do not move after the transfer is completed, long press ZL + L macro cycle to automatically transfer the fifth area flash"
+            ],
+            "author": "绘梨"
         }
     ]
 }

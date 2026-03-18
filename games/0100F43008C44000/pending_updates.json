@@ -1,22 +1,3 @@
 {
-    "updates": [
-        {
-            "target_file": "1773315711_aad9a3.macro",
-            "origin": "pending",
-            "ts": 1773316071,
-            "data": {
-                "name": [
-                    "餐厅刷等级",
-                    "餐廳刷等級",
-                    "Dining room brush level"
-                ],
-                "desc": [
-                    "在谱通餐馆NPC面前长按ZL+↓即可开始自动刷等级",
-                    "在譜通餐館NPC面前長按ZL+↓即可開始自動刷等級",
-                    "Press ZL + ↓ for a long time in front of NPCs in the spectrum restaurant to start automatic level brushing."
-                ],
-                "author": "绘梨"
-            }
-        }
-    ]
+    "updates": []
 }
