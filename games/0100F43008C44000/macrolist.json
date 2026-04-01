@@ -13,7 +13,7 @@
                 "Position yourself with your back to the bench you've chosen to sit on, as if you were just killing time. Press L+R+A to activate the macro, holding these buttons for one second to start the loop."
             ],
             "author": "FuuDigo",
-            "downloads": 59
+            "downloads": 60
         },
         {
             "file": "1770573483_ca8573.macro",
@@ -28,7 +28,7 @@
                 "Opens map > back to hyperspace wild zone entrance. Usage: Respawning mons close to entrance over and over."
             ],
             "author": "Eulloyd",
-            "downloads": 15
+            "downloads": 16
         },
         {
             "file": "1773315711_aad9a3.macro",
@@ -42,7 +42,8 @@
                 "在譜通餐館NPC面前長按ZL+↓即可開始自動刷等級",
                 "Press ZL + ↓ for a long time in front of NPCs in the spectrum restaurant to start automatic level brushing."
             ],
-            "author": "绘梨"
+            "author": "绘梨",
+            "downloads": 1
         },
         {
             "file": "1773430606_619e00.macro",
@@ -56,7 +57,8 @@
                 "需手動傳送一次第五區，傳送完成后不要移動，長按ZL+L宏循環自動傳送第五區刷閃",
                 "Need to manually transfer the fifth area once, do not move after the transfer is completed, long press ZL + L macro cycle to automatically transfer the fifth area flash"
             ],
-            "author": "绘梨"
+            "author": "绘梨",
+            "downloads": 1
         }
     ]
 }
