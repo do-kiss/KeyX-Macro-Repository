@@ -13,7 +13,7 @@
                 "The shortcut must include the A button.\r\nThe shortcut needs to be triggered on the first beat, after which the 29-second mini-game will be completed automatically.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 4
+            "downloads": 5
         },
         {
             "file": "1768818280_a277fe.macro",
@@ -58,7 +58,7 @@
                 "The shortcut must include the Y button.\r\nPress the shortcut on the beat to automatically complete Moving Drumming, while pushing the left stick to the right to look forward.\r\nIf you want to use a different shortcut, manually add the Y button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 5
+            "downloads": 6
         },
         {
             "file": "1768818893_e9c3c6.macro",
