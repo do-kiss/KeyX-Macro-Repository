@@ -13,7 +13,7 @@
                 "The shortcut must include the A button.\r\nThe shortcut needs to be triggered on the first beat, after which the 29-second mini-game will be completed automatically.\r\nIf you want to use a different shortcut, manually add the A button (100 ms) in the first line."
             ],
             "author": "FCH",
-            "downloads": 7
+            "downloads": 8
         },
         {
             "file": "1768818280_a277fe.macro",
