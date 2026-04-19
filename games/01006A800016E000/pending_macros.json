@@ -1,34 +1,3 @@
 {
-    "macros": [
-        {
-            "file": "1776590638_b52de9.macro",
-            "name": [
-                "SSBU: Kazuya EWGF Left Side",
-                "SSBU: Kazuya EWGF Left Side",
-                "SSBU: Kazuya EWGF Left S."
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "Kirasama",
-            "status": "pending"
-        },
-        {
-            "file": "1776590729_ea4dd0.macro",
-            "name": [
-                "Kazuya EWGF Right",
-                "Kazuya EWGF Right Side",
-                "Kazuya EWGF Right S."
-            ],
-            "desc": [
-                "",
-                "",
-                ""
-            ],
-            "author": "Kirasama",
-            "status": "pending"
-        }
-    ]
+    "macros": []
 }
