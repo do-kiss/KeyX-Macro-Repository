@@ -1,3 +1,19 @@
 {
-    "macros": []
+    "macros": [
+        {
+            "file": "1778106275_aa7029.macro",
+            "name": [
+                "San Andreas - No police",
+                "No police",
+                "No polic"
+            ],
+            "desc": [
+                "",
+                "",
+                ""
+            ],
+            "author": "Ghostkill93",
+            "status": "pending"
+        }
+    ]
 }
